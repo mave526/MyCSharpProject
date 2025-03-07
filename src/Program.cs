@@ -20,7 +20,7 @@ namespace HelloWorld
       // input = Console.ReadLine();
       // Console.WriteLine(input);
 
-      Console.Write(varAge + varAge + varHeight + varWeight);
+      Console.Write(varAge + varHeight);
 
     }
   }
