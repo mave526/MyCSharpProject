@@ -12,7 +12,6 @@ namespace HelloWorld
       // string input;
       int varAge, varHeight;
       varName = Console.ReadLine();
-      // varName = "LOY SUAN FUH"; 
       varAge = 45;
       varHeight = 170;
       // varWeight = 75;
