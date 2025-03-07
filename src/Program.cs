@@ -10,12 +10,12 @@ namespace HelloWorld
     {
       string varName;
       // string input;
-      int varAge, varHeight, varWeight;
+      int varAge, varHeight;
       varName = Console.ReadLine();
       // varName = "LOY SUAN FUH"; 
       varAge = 45;
       varHeight = 170;
-      varWeight = 75;
+      // varWeight = 75;
       Console.WriteLine("My name is " + varName + " and my age is " + varAge + varAge); 
       // input = Console.ReadLine();
       // Console.WriteLine(input);

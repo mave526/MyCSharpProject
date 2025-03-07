@@ -28,3 +28,4 @@ C:\Users\S4 User\OneDrive\Documents\02. Programming\06. HTML\Project_02_C#\my-cs
 C:\Users\S4 User\OneDrive\Documents\02. Programming\06. HTML\Project_02_C#\my-csharp-project\obj\Debug\net6.0\MyCSharpProject.pdb
 C:\Users\S4 User\OneDrive\Documents\02. Programming\06. HTML\Project_02_C#\my-csharp-project\obj\Debug\net6.0\MyCSharpProject.genruntimeconfig.cache
 C:\Users\S4 User\OneDrive\Documents\02. Programming\06. HTML\Project_02_C#\my-csharp-project\obj\Debug\net6.0\ref\MyCSharpProject.dll
+C:\Users\S4 User\OneDrive\Documents\02. Programming\06. HTML\Project_02_C#\my-csharp-project\obj\Debug\net6.0\MyCSharpProject.sourcelink.json
